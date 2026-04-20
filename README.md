@@ -107,4 +107,4 @@ Angular 19 frontend connected to TaskFlow API — Angular Material, Reactive For
 
 ## Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mehdi-rochereau-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mehdi-rochereau)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mehdirochereau-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mehdi-rochereau)
