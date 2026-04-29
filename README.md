@@ -32,11 +32,12 @@ Actuellement en **Bac+3 CDA à l'ENI Rennes** (fin octobre 2026), je recherche :
 
 ### [TaskFlow API](https://github.com/mehdi-rochereau/taskflow-api)
 API REST complète en Java 21 / Spring Boot 3.5 : JWT, Spring Security, Spring Data JPA, Flyway, MySQL, Docker.  
-Suite de 93 tests (JUnit 5 / Mockito / MockMvc), couverture 93%+, documentation OpenAPI/Swagger.
+Suite de 93 tests (JUnit 5 / Mockito / MockMvc), couverture 93%+, documentation OpenAPI/Swagger.  
+🌐 [api.taskflow.mehdi-rochereau.dev/swagger-ui/index.html](https://api.taskflow.mehdi-rochereau.dev/swagger-ui/index.html)
 
 ### [TaskFlow UI](https://github.com/mehdi-rochereau/taskflow-ui)
-Frontend Angular 19 connecté à TaskFlow API : Angular Material, Reactive Forms, intercepteur JWT.  
-*En cours de développement.*
+Frontend Angular 19 connecté à TaskFlow API : Angular Material, Reactive Forms, intercepteurs JWT, cookies HttpOnly.  
+🌐 [taskflow.mehdi-rochereau.dev](https://taskflow.mehdi-rochereau.dev)
 
 ---
 
@@ -44,7 +45,7 @@ Frontend Angular 19 connecté à TaskFlow API : Angular Material, Reactive Forms
 
 **Stage IdIA Tech** *(full remote, Agile)* : web scraping professionnel, reverse engineering, traitement et intégration de données, PHP/Java/Groovy/Python.
 
-**Déploiements personnels en production** : scraper Python (Playwright, Bright Data, VPS Hetzner) et agent conversationnel OpenAI (Flask, Gunicorn, Nginx, HTTPS/SSL).
+**Déploiements personnels en production** : TaskFlow (Spring Boot + Angular + MySQL, Docker Compose, Nginx, VPS Hetzner, SSL Let's Encrypt), scraper Python (Playwright, Bright Data) et agent conversationnel OpenAI (Flask, Gunicorn, Nginx).
 
 ---
 
@@ -89,11 +90,12 @@ Currently completing a **Bac+3 Application Designer & Developer at ENI Rennes** 
 
 ### [TaskFlow API](https://github.com/mehdi-rochereau/taskflow-api)
 Full REST API in Java 21 / Spring Boot 3.5 : JWT auth, Spring Security, Spring Data JPA, Flyway, MySQL, Docker.  
-93-test suite (JUnit 5 / Mockito / MockMvc), 93%+ coverage, OpenAPI/Swagger documentation.
+93-test suite (JUnit 5 / Mockito / MockMvc), 93%+ coverage, OpenAPI/Swagger documentation.  
+🌐 [api.taskflow.mehdi-rochereau.dev/swagger-ui/index.html](https://api.taskflow.mehdi-rochereau.dev/swagger-ui/index.html)
 
 ### [TaskFlow UI](https://github.com/mehdi-rochereau/taskflow-ui)
-Angular 19 frontend connected to TaskFlow API : Angular Material, Reactive Forms, JWT interceptor.  
-*Work in progress.*
+Angular 19 frontend connected to TaskFlow API : Angular Material, Reactive Forms, JWT interceptors, HttpOnly cookies.  
+🌐 [taskflow.mehdi-rochereau.dev](https://taskflow.mehdi-rochereau.dev)
 
 ---
 
@@ -101,7 +103,7 @@ Angular 19 frontend connected to TaskFlow API : Angular Material, Reactive Forms
 
 **IdIA Tech internship** *(full remote, Agile)* : professional web scraping, reverse engineering, data processing and integration, PHP/Java/Groovy/Python.
 
-**Personal production deployments** : Python scraper (Playwright, Bright Data, Hetzner VPS) and OpenAI conversational app (Flask, Gunicorn, Nginx, HTTPS/SSL).
+**Personal production deployments** : TaskFlow (Spring Boot + Angular + MySQL, Docker Compose, Nginx, Hetzner VPS, Let's Encrypt SSL), Python scraper (Playwright, Bright Data) and OpenAI conversational app (Flask, Gunicorn, Nginx).
 
 ---
 
