@@ -39,6 +39,9 @@ Suite de 93 tests (JUnit 5 / Mockito / MockMvc), couverture 93%+, documentation 
 Frontend Angular 19 connecté à TaskFlow API : Angular Material, Reactive Forms, intercepteurs JWT, cookies HttpOnly.  
 🌐 [taskflow.mehdi-rochereau.dev](https://taskflow.mehdi-rochereau.dev)
 
+### [TaskFlow Deploy](https://github.com/mehdi-rochereau/taskflow-deploy)
+Infrastructure de déploiement en production : Docker Compose, Nginx, Let's Encrypt SSL, VPS Hetzner, scripts de déploiement.
+
 ---
 
 ## Expérience notable
@@ -96,6 +99,9 @@ Full REST API in Java 21 / Spring Boot 3.5 : JWT auth, Spring Security, Spring D
 ### [TaskFlow UI](https://github.com/mehdi-rochereau/taskflow-ui)
 Angular 19 frontend connected to TaskFlow API : Angular Material, Reactive Forms, JWT interceptors, HttpOnly cookies.  
 🌐 [taskflow.mehdi-rochereau.dev](https://taskflow.mehdi-rochereau.dev)
+
+### [TaskFlow Deploy](https://github.com/mehdi-rochereau/taskflow-deploy)
+Production deployment infrastructure: Docker Compose, Nginx, Let's Encrypt SSL, Hetzner VPS, deployment scripts.
 
 ---
 
