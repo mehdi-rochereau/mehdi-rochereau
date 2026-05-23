@@ -70,7 +70,7 @@ Currently completing a **Bac+3 Application Designer & Developer at ENI Rennes** 
 - a **2-month internship** (September – October 2026)
 - a **2-year Bac+5 alternance** (Software Architecture & Development Expert) starting November 2026
 
-📍 Ille-et-Vilaine, Brittany, France
+📍 Grand West (Brittany, Pays de la Loire, Normandy), Paris and Île-de-France
 
 ---
 
