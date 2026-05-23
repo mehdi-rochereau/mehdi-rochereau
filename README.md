@@ -8,7 +8,8 @@ Actuellement en **Bac+3 CDA à l'ENI Rennes** (fin octobre 2026), je recherche :
 - un **stage de 2 mois** (septembre – octobre 2026)
 - une **alternance Bac+5 EADL** de 2 ans dès novembre 2026
 
-📍 Ille-et-Vilaine (Rennes, Fougères, Vitré…)
+📍 Grand Ouest (Bretagne, Pays de la Loire, Normandie), Paris et Île-de-France
+
 
 ---
 
